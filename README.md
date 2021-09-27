@@ -7,22 +7,22 @@
 -- fluid
 -- center
 
-#list
+# list
 -- ordered
 -- unordered
 -- reverse
 
-#button
+# button
 -- primary
 -- secondary
 
-#section (centered container)
---off white
---plain
+# section (centered container)
+-- off white
+-- plain
 
-#nav
---brand, link, menu
+# nav
+-- brand, link, menu
 
-#header
---hero img
+ #header
+-- hero img
 
