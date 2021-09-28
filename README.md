@@ -1,28 +1,28 @@
 # Root Colors
--- primary color
--- navigation colors
--- header & footer colors
+- primary color
+- navigation colors
+- header & footer colors
 
 # container
--- fluid
--- center
+- fluid
+- center
+
 
 # list
--- ordered
--- unordered
--- reverse
+- ordered
+- unordered
+- reverse
 
 # button
--- primary
--- secondary
+- primary
+- secondary
 
 # section (centered container)
--- off white
--- plain
+- off white
+- plain
 
 # nav
--- brand, link, menu
+- brand, link, menu
 
  #header
--- hero img
-
+- hero img
